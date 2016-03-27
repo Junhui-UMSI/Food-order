@@ -14,7 +14,7 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 1. Clone this repository
 2. Install the application: `npm install`
 3. Start the server: `node server.js`
-4. if encounter mongo db issue: (http://stackoverflow.com/questions/7948789/mongodb-mongod-complains-that-there-is-no-data-db-folder)this tutorial may help
+4. if encounter mongo db issue: (http://stackoverflow.com/questions/7948789/mongodb-mongod-complains-that-there-is-no-data-db-folder)  this tutorial may help
 4. View in browser at `http://localhost:8080`
 
 
