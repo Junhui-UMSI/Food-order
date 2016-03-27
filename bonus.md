@@ -19,4 +19,6 @@ Node provides the RESTful API. Angular provides the frontend and accesses the AP
 
 
 
-![Food-order](http://junhui-li.com/images/foodorderapp.png)
+![Food-order](http://junhui-li.com/images/bonus1.png)
+![Food-order](http://junhui-li.com/images/bonus2.png)
+![Food-order](http://junhui-li.com/images/bonus3.png)
