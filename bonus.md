@@ -1,8 +1,8 @@
 # Bonus Part
 
-A Node app built with MongoDB and Angular. For demonstration purposes and a tutorial.
+The bonus part of this app is the auto calculate function of the food price with tax
 
-Node provides the RESTful API. Angular provides the frontend and accesses the API. MongoDB stores like a hoarder.
+Unlike redirecting to the api url and find out the total price, user could see the total price immediately on the index page based on his selections. The calculation is still being processed by the api in the backend, yet it it more user friendly.
 
 ## Requirements
 
