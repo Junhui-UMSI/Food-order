@@ -38,9 +38,8 @@ module.exports = function (app) {
               res.send(err);
           }
           for(var i= 0; i< food.length; i++){
-            totalprice += food[i].price;
+            totalprice += food[i].price*(1-0.075);
           }
-          totalprice = totalprice*(1-0.075);
           console.log(totalprice);
           res.send(totalprice.toString());
       });
@@ -57,7 +56,7 @@ module.exports = function (app) {
       // res.json(xxx)
       // express => angular
     });
-    
+
     // create food and send back all todos after creation
     app.post('/api/food', function(req, res) {
               console.log("\nCall Food Post method.\n");
